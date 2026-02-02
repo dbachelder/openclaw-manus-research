@@ -7,7 +7,7 @@ Instead of browsing the web yourself, hand off complex research to Manus — com
 ## Install
 
 ```bash
-openclaw plugins add openclaw-manus-research
+openclaw plugins add dbachelder/openclaw-manus-research
 ```
 
 ## Setup
