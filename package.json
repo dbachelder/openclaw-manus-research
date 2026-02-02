@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "OpenClaw plugin for delegating deep research tasks to Manus AI",
   "license": "MIT",
-  "author": "Dan Bachelder <dan@bachelder.io>",
+  "author": "Dan Bachelder <dan@codesushi.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/dbachelder/openclaw-manus-research"
