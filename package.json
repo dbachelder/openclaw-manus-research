@@ -1,0 +1,30 @@
+{
+  "name": "openclaw-manus-research",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin for delegating deep research tasks to Manus AI",
+  "license": "MIT",
+  "author": "Dan Bachelder <dan@bachelder.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbachelder/openclaw-manus-research"
+  },
+  "keywords": [
+    "openclaw",
+    "openclaw-plugin",
+    "manus",
+    "manus-ai",
+    "research",
+    "ai-agent"
+  ],
+  "files": [
+    "index.ts",
+    "openclaw.plugin.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "openclaw": {
+    "extensions": [
+      "index.ts"
+    ]
+  }
+}

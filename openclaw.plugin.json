@@ -1,0 +1,11 @@
+{
+  "id": "manus-research",
+  "name": "Manus Research",
+  "version": "1.0.0",
+  "description": "Delegate deep research tasks to Manus AI — web research, competitive analysis, reports, and multi-step workflows",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
